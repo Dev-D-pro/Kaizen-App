@@ -1,2 +1,2 @@
 # Kaizen-App
-Kaizen Web3 integration of block chain Technology.
+Kaizen Web3 integration with block chain Technology.
